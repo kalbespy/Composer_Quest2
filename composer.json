@@ -1,0 +1,15 @@
+{
+    "name": "kevin/challenge-quest2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kévin Albespy",
+            "email": "kevin.albespy@gmail.com"
+        }
+    ],
+    "require": {}
+}
